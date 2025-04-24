@@ -22,3 +22,6 @@ pnpm run dev
 - [掘金专栏](https://juejin.cn/column/7338674902280650779)
 - [我的博客](https://blog.zhouweibin.top/)
 - [前端环境搭建 mac 版](https://docs.zhouweibin.top/docs/awesome-dev/%E5%89%8D%E7%AB%AF%E7%8E%AF%E5%A2%83/)
+
+- 
+![](./src/assets/textures/crate.gif)
